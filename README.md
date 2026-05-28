@@ -17,3 +17,10 @@ Machine Learning: Scikit-learn / Pandas / NumPy
 Framework: Flask
 Dataset Processing: Pandas
 Model Training: Machine Learning Algorithms
+
+**Future Enhancements:**
+ Deep Learning Integration
+ Browser Extension Support
+ Mobile Application
+ Cloud Deployment
+ Advanced Threat Intelligence
